@@ -73,7 +73,7 @@
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/username/catatwang.git
+   git clone https://github.com/Cry6z/catatwang.git
    cd catatwang
    ```
 
